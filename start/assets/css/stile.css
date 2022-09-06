@@ -202,7 +202,7 @@ footer a {
 
 .toTop {
     position: fixed;
-    bottom: 10px;
+    bottom: 1vh;
     right: 5px;
 }
 .social {
